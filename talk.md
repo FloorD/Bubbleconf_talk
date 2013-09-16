@@ -1,3 +1,27 @@
+30 min Talk  
+10 min Q/A  
+
+What makes beginners join our community?  
+Open sourcing learning.   
+Community took ownership.  
+
+Rails Gilrs story - how it developed. 
+Demographics  
+- what is this workshop we're talking about?  
+- where do the applicants come from?   
+- success stories  
+- ever improving on guides and workshop outlines.  
+- how to contribute (translations, follow-up guides, sponsorship, coaching, ... )  
+
+How could you contribute (and benefit) from this community  
+Encourage hiring junior developers - why?  
+
+Local chapter story - Floor  
+What's in it for you as a coach?  
+
+###Why 'girls only'?*  
+* not necessarily   
+
 ##We got your female engineers
 
 What is this Rails Girls thing? Rails Girls was born in Finland, but is nowadays a global, non-profit volunteer community. The first event, held in Helsinki in November 2010, got over 100 interested girls signed-up for the workshop. Our aim is to give tools and a community for women to understand technology and to build their ideas. We do this by providing a great experience on building things and by making technology more approachable.
@@ -18,7 +42,7 @@ I organized Rails Girls Rotterdam in January, organizing [Rails Girls The Hague]
 ###No boys club
 I'd like to stress that all beginners are allowed to participate, but when more people apply than we have space for, women are first. 
 
-####What made it the global community it is today
+####What made it the global community that it is today
 
 ####Girls that kept coding
 Krakow
