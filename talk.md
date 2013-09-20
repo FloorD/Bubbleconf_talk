@@ -5,6 +5,9 @@
 INSERT: some of the stats Verena is gathering. cities, number of events, applicants, participants, coaches, level of experience etc. 
 I think it would be cool to start with some data instead of the fluffy community story ;)
 
+####"We got Rails Girls for that"
+#####Before we move on we would like to note that we are two Rails Girls supporters, we don't speak on behalf of Rails Girls as a whole.  Rails Girls in itself is a very diverse group of people, so it would be close to impossible to form an opinion about the recent RubyConf debacle and Matz' remark that conferences are not the place to try and fix the lack of diversity in the programming world, and that there are certain 'instances' for that, like Rails Girls. So let's not waste precious Q/A time on this. Thanks! 
+
 ##The Rails Girls story - how it developed. 
 
 What is this Rails Girls thing? Rails Girls was born in Finland, but is nowadays a global, non-profit volunteer community. The first event, held in Helsinki in November 2010, got over 100 interested girls signed-up for the workshop. Our aim is to give tools and a community for women to understand technology and to build their ideas. We do this by providing a great experience on building things and by making technology more approachable.  
