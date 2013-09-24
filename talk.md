@@ -5,8 +5,7 @@
 INSERT: some of the stats Verena is gathering. cities, number of events, applicants, participants, coaches, level of experience etc. 
 I think it would be cool to start with some data instead of the fluffy community story ;)
 
-####"We got Rails Girls for that"
-#####Before we move on we would like to note that we are two Rails Girls supporters, we don't speak on behalf of Rails Girls as a whole.  Rails Girls in itself is a very diverse group of people, so it would be close to impossible to form an opinion about the recent RubyConf debacle and Matz' remark that conferences are not the place to try and fix the lack of diversity in the programming world, and that there are certain 'instances' for that, like Rails Girls. So let's not waste precious Q/A time on this. Thanks! 
+#####Before we move on we would like to note that we are two Rails Girls supporters, we don't speak on behalf of Rails Girls as a whole.  Rails Girls in itself is a very diverse group of people, so it would be close to impossible to form an opinion about whatever Twitter fittie is going on atm. So let's not waste precious Q/A time on this. Thanks! 
 
 ##The Rails Girls story - how it developed. 
 
@@ -29,6 +28,8 @@ Open sourcing learning.
 The 'girl effect'  
 
 ###Ever improving on guides and workshop outlines.  
+
+
 ###How to contribute (translations, follow-up guides, sponsorship, coaching, ... )  
 
 ##Girls that kept coding
